@@ -184,22 +184,8 @@ img {
   height: 233px;
 }
 
-#borderimg4 {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-color: #6f42c1;
-}
-
-#borderimg5 {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-color: #6f42c1;
-}
-
-#borderimg6 {
-  border: 10px solid transparent;
-  padding: 15px;
-  border-color: #6f42c1;
+footer {
+  text-align: center;
 }
 
 svg {
